@@ -12,3 +12,8 @@ conda activate LOGIN
 pip install -r login-server-requirements.txt
 python login-server.py
 ```
+
+Extract utils.rar into server folder : 
+```
+https://drive.google.com/file/d/1XeH8IrYYcyD4Ks-jbC4H2Mg7ZggoPav5/view?usp=sharing
+```
